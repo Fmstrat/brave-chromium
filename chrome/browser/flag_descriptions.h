@@ -1611,6 +1611,9 @@ extern const char kPrivacySandboxAdsAPIsOverrideDescription[];
 extern const char kPrivacySandboxEnrollmentOverridesName[];
 extern const char kPrivacySandboxEnrollmentOverridesDescription[];
 
+extern const char kCustomSyncServerName[];
+extern const char kCustomSyncServerDescription[];
+
 extern const char kPrivacySandboxSettings4Name[];
 extern const char kPrivacySandboxSettings4Description[];
 

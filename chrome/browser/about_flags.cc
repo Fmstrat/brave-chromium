@@ -10651,6 +10651,12 @@ const FeatureEntry kFeatureEntries[] = {
      ORIGIN_LIST_VALUE_TYPE(privacy_sandbox::kPrivacySandboxEnrollmentOverrides,
                             "")},
 
+    {"custom-sync-server",
+     flag_descriptions::kCustomSyncServerName,
+     flag_descriptions::kCustomSyncServerDescription, kOsAll,
+     ORIGIN_LIST_VALUE_TYPE(syncer::kSyncServiceURL,
+                            "")},
+
 #if !BUILDFLAG(IS_ANDROID)
     {"enable-smart-card-web-api", flag_descriptions::kSmartCardWebApiName,
      flag_descriptions::kSmartCardWebApiDescription, kOsDesktop,

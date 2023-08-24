@@ -62081,6 +62081,7 @@ from previous Chrome versions.
   <int value="-948684341" label="OmniboxBlurWithEscape:enabled"/>
   <int value="-948256052" label="EnableInputInDiagnosticsApp:enabled"/>
   <int value="-947643308" label="EnableTouchscreensInDiagnosticsApp:disabled"/>
+  <int value="-947202063" label="custom-sync-server:disabled"/>
   <int value="-946366838" label="MetricsSettingsAndroid:enabled"/>
   <int value="-945806012" label="DownloadsUi:enabled"/>
   <int value="-943778276"
@@ -63896,6 +63897,7 @@ from previous Chrome versions.
   <int value="-11260186" label="enable-offline-pages-as-saved-pages"/>
   <int value="-10709540"
       label="OmniboxUIExperimentHideSuggestionUrlScheme:enabled"/>
+  <int value="-10590276" label="custom-sync-server:enabled"/>
   <int value="-9836751" label="SideSearchDSESupport:enabled"/>
   <int value="-9701088" label="ScanAppMediaLink:disabled"/>
   <int value="-9599490" label="KernelnextVMs:disabled"/>

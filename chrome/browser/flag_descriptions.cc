@@ -2853,6 +2853,11 @@ const char kPrivacySandboxEnrollmentOverridesDescription[] =
     "enrolled and attested into the Privacy Sandbox experiment. See: "
     "https://developer.chrome.com/en/docs/privacy-sandbox/enroll/";
 
+const char kCustomSyncServerName[] =
+    "Custom Sync Server";
+const char kCustomSyncServerDescription[] =
+    "Allows the user of a custom sync server URL.";
+
 const char kPrivacySandboxSettings4Name[] = "Privacy Sandbox Settings V4";
 const char kPrivacySandboxSettings4Description[] =
     "Enables updated Privacy Sandbox UI";
