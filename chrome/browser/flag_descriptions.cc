@@ -2856,7 +2856,7 @@ const char kPrivacySandboxEnrollmentOverridesDescription[] =
 const char kCustomSyncServerName[] =
     "Custom Sync Server";
 const char kCustomSyncServerDescription[] =
-    "Allows the user of a custom sync server URL.";
+    "Allows the use of a custom sync server URL.";
 
 const char kPrivacySandboxSettings4Name[] = "Privacy Sandbox Settings V4";
 const char kPrivacySandboxSettings4Description[] =
