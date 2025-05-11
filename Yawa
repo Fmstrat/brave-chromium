@@ -1,0 +1,11 @@
+base::RunLoop::QuitWhenIdle
+…
+BrowserProcessImpl::Unpin
+BrowserProcessImpl::OnKeepAliveStateChanged
+KeepAliveRegistry::OnKeepAliveStateChanged
+KeepAliveRegistry::Unregister
+ScopedKeepAlive::~ScopedKeepAlive
+...
+Browser::UnregisterKeepAlive
+BrowserList::RemoveBrowser
+Browser::~Browser
